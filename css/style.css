@@ -819,7 +819,7 @@ body {
   @media (max-width: 37.5em) {
     .navigation__background {
       top: 3rem;
-      right: 3rem; } }
+      right: 3.5rem; } }
 
 .navigation__nav {
   height: 100vh;
