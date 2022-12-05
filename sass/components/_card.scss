@@ -177,6 +177,13 @@
 
         &__details {
             padding: 0 3rem;
+
+            ul {
+                li {
+                    font-size: 2rem;
+                }
+                
+            }
         }
 
         &__cta {

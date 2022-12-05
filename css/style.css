@@ -356,6 +356,8 @@ body {
         transform: rotateY(0); }
       .card__details {
         padding: 0 3rem; }
+        .card__details ul li {
+          font-size: 2rem; }
       .card__cta {
         position: relative;
         top: 0;
